@@ -1,0 +1,15 @@
+DB_URL = C:\Program Files\Apache Software Foundation\Apache2.2\sqlite\testdb1
+TEMPLATE_PATH = ./template
+MENT_PATH = ./ment
+LIB_PATH = ./lib
+TITLE_IMG_OFF = 0
+COOKIE_KEY = gr_p
+BAND_COOKIE_KEY = gr_b
+
+DB_HOST = 127.0.0.1
+DB_USER = test
+DB_PASS = test
+DB_NAME = kakeidb
+DB_CHARSET = sjis
+
+PHP_TIMEOUT=0
